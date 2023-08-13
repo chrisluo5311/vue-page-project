@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_page_project"]=self["webpackChunkvue_page_project"]||[]).push([[153],{7153:function(e,n,r){r.r(n),r.d(n,{default:function(){return p}});var c=r(3396);const t=(0,c._)("h2",null,"命名路由",-1),u={class:"row"},s={class:"col-6"},a={class:"col-6"};function l(e,n){const r=(0,c.up)("router-view");return(0,c.wg)(),(0,c.iD)(c.HY,null,[t,(0,c._)("div",u,[(0,c._)("div",s,[(0,c.Wm)(r,{name:"left"})]),(0,c._)("div",a,[(0,c.Wm)(r,{name:"right"})])])],64)}var o=r(89);const i={},v=(0,o.Z)(i,[["render",l]]);var p=v}}]);
+//# sourceMappingURL=153.cd202a22.js.map

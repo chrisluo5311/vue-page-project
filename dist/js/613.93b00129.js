@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_page_project"]=self["webpackChunkvue_page_project"]||[]).push([[613],{6613:function(e,t,r){r.r(t),r.d(t,{default:function(){return i}});var n=r(3396);function o(e,t,r,o,s,c){return(0,n.wg)(),(0,n.iD)("div")}var s=r(4161),c={props:["id"],created(){console.log("props",this.id);const e=this.id;s.Z.get(`https://randomuser.me/api/?seed=${e}`).then((e=>{console.log(e)}))}},p=r(89);const u=(0,p.Z)(c,[["render",o]]);var i=u}}]);
+//# sourceMappingURL=613.93b00129.js.map
